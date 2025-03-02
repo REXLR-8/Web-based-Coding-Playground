@@ -109,7 +109,7 @@ ${js}
       <header className={`p-4 border-b ${theme === 'dark' ? 'border-gray-700' : 'border-gray-200'} flex justify-between items-center`}>
         <div className="flex items-center space-x-2">
           <Code2 className="h-6 w-6" />
-          <h1 className="text-xl font-bold">Code Playground</h1>
+          <h1 className="text-xl font-bold">Code Playground</h1> <h3>by Hassam</h3>
         </div>
         
         <div className="flex items-center space-x-4">
